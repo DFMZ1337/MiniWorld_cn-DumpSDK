@@ -2,6 +2,7 @@
 
 > <img src=".\deobf1.jpg" alt="deobf" width="100"><img src=".\deobf2.jpg" alt="deobf" width="70"><img src=".\deobf3.jpg" alt="deobf" width="70"><img src=".\deobf4.jpg" alt="deobf" width="100">
 >
+> 交流群1064321413
 > RTTI 虚表重建、Hex-Rays 反编译签名、SDK 头文件生成
 ## 目录结构
 
